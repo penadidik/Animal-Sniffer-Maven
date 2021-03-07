@@ -2,6 +2,9 @@
 
 This module contains articles about the Animal Sniffer Maven Plugin
 
-### Relevant articles:
+This Sample Apps develop by:
 
-[Introduction to Animal Sniffer Maven Plugin](https://www.baeldung.com/maven-animal-sniffer)
+### Didik Maryono
+Full Stack Developer Indonesia
+
+Co-Founder and CTO Dentist Care Indonesia
